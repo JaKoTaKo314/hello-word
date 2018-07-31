@@ -1,2 +1,3 @@
 # hello-word
-Just another repository
+Witam!
+To pierwszy test sprawdzający działanie GitHuba
